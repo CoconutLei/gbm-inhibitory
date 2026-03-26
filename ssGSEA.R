@@ -21,8 +21,3 @@ params <- ssgseaParam(
   normalize = TRUE,             # 启用结果标准化（推荐）
 )
 gsva_data <- gsva(params, verbose = TRUE)
-
-# SINGLEGENEEXPR <- expr[c("BMP2"),,drop=F]
-TOP10 <- expr[c("ARHGEF39","PODNL1","CD37","TOE1","MFAP2","HOXA10","KIF20A","STIL","DMRTA2","PARS2","OSR2"),,drop=F]
-
-cor.test(as.numeric(OSR2),as.numeric(BMP2),alternative = c("less"),method=c("spearman"))

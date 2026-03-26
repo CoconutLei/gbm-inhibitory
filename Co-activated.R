@@ -51,7 +51,7 @@ scale_values <- function (x){10*(x-min(x))/(max(x)-min(x))}
 
 #读取文件 每个细胞一列 第一行是细胞编号
 setwd("E:/IN/fig3 data/calcium imaging/result/coactive/MGE")
-data <- read.csv("rmact.csv")
+data <- read.csv("coactiveB.csv")
 data <- scale_values(data)
 result_sig <- matrix(numeric((length(data[1,]))^2),nrow = length(data[1,]),ncol = length(data[1,]),dimnames = list(colnames(data),colnames(data)))
 result_presentage <- result_sig
