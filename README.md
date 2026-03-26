@@ -1,4 +1,4 @@
-# Single-cell Analysis of Glioma Reveals γ-aminobutyric Acid-expressing (GABAergic) NGS Suppresses Glioblastoma Growth
+# Single-cell and Spatial Transcriptomic Analysis of Glioma Reveals γ-aminobutyric Acid-expressing (GABAergic) NGS Suppresses Glioblastoma Growth
 **Data and Code Repository for Nature Neuroscience Manuscript**
 
 ## 📋 Manuscript Information
