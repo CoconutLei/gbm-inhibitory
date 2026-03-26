@@ -3,7 +3,7 @@
 
 ## 📋 Manuscript Information
 - **Manuscript Title**: [Interneuron GABAergic synapses suppress glioblastoma progression]
-- **Authors**: [Luo Feng, Lei Pei, Chen Zheng] et al.
+- **Authors**: [Luo Feng] et al.
 - **Corresponding Author**: [Fan Bai, Nu Zhang]
 
 ## 🧬 Project Overview
